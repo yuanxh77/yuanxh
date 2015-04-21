@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://download.yxybb.com/yxybbcom/bbt/ios/release/BBT.Longrise.iPhone_V_1.50.ipa</string>
+                        <string>http://download.yxybb.com/yxybbcom/bbt/ios/release/BBT.Longrise.iPhone_V_1.60.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -33,9 +33,9 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.fjtsoft.TBP</string>
+                    <string>com.longrise.tbrjl</string>
                     <key>bundle-version</key>
-                    <string>1.50</string>
+                    <string>1.60</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
